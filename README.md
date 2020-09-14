@@ -1,4 +1,4 @@
-This code showse the demo of using Huskylens & Edu:bit to create pan tilt object detection camera
+This code shows the demo of using Huskylens & Edu:bit to create pan tilt object detection camera
 
 code is published here
 https://makecode.microbit.org/_DyX956AXDaxs
